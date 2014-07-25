@@ -1,0 +1,18 @@
+test
+compile
+import recfun
+import recfun.Main
+test
+balance
+test
+scala
+dir
+test
+runMain recfun.Main
+run-main recfun.Main
+StyleCheck
+styleCheck
+submit abhijitsulhyan@gmail.com 3MvjnVFfZu
+run-main recfun.Main
+test
+run-main recfun.Main
